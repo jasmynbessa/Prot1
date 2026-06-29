@@ -5,4 +5,5 @@
 
 
 **A maioria dos gatos laranja são machos**
-_dos gatos brancos de olhos azuis tem uma grande probabilidade de serem surdos_
+
+_gatos brancos de olhos azuis tem uma grande probabilidade de serem surdos_
