@@ -10,6 +10,7 @@
 _gatos brancos de olhos azuis tem uma grande probabilidade de serem surdos_
 
 -Gatos malhados são raros
+
 -Gatos vem agente como membros da sua colonia e se comunicam como agente como fariam com qualquer outro gato
 
 
